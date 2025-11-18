@@ -23,3 +23,4 @@ Example:
 ```
 
 Project tasks: prepare repository files and perform the Git CLI workflow (fork, branches, PRs, and merge) as described in the course instructions.
+Typo fix: corrected wording in Usage section.
