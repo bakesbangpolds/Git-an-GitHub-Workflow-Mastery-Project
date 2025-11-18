@@ -24,3 +24,10 @@ Example:
 
 Project tasks: prepare repository files and perform the Git CLI workflow (fork, branches, PRs, and merge) as described in the course instructions.
 Typo fix: corrected wording in Usage section.
+
+## Credits
+
+- **Name:** Khairu Adha
+- **Email:** `r4dioz.88@gmail.com`
+- **Website:** `https://rainbowcodec.com`
+
